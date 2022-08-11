@@ -6,7 +6,7 @@ Os dados da prevalência da COVID19 no estado do RS/Brasil foram retirados do SE
 Definindo algumas etapas da análise:
 
     Definindo um objetivo
-    Escolha as métricas de análise
+    Escolhendo as métricas de análise
     Coletando os dados
     Limpando os dados
     Visualizando os dados
