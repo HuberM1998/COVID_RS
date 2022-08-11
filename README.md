@@ -1,4 +1,4 @@
-# Análise de dados da prevalência da COVID19 no estado do RS/Brasil
+# Análise de dados da prevalência da COVID19 no estado do RS/Brasil utilizando aprendizado de máquina
 O principal objetivo dessa pesquisa é extrair informações úteis a partir dos dados obtidos. A partir destas informações, é possível fazer uma predição da probabilidade de ocorrência do vírus no estado, dessa forma, podemos tomar decisões mais assertivas e orientadas para lidar com os resultados. Utilizaremos técnicas de aprendizado de máquina para realizar as predições, técnicas estatísticas para visualizar os dados e lógicas para formar uma conclusão. 
 
 Os dados da prevalência da COVID19 no estado do RS/Brasil foram retirados do SES/RS, são livremente disponibilizados, e se encontram em: https://www.kaggle.com/datasets/paulopilotti/covid-rs-09112010
